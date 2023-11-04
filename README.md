@@ -1,2 +1,3 @@
-# genetic-algorithm
-Experimenting with the genetic algorithms
+# Genetic Algorithm Experiment
+
+This project centers on the exploration of genetic algorithms to optimize the search for the maximum value of a function using input parameters [x, y, z]. In addition to this, the project delves into the impact of altering various parameters such as the number of individuals, number of generations, mutation rate, and more, to observe how these changes affect the algorithm's behavior and performance.
